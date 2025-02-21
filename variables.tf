@@ -1,0 +1,5 @@
+variable "bucketname" {
+
+    default = "terrraformprojectnew"
+  
+}
