@@ -1,5 +1,5 @@
 variable "bucketname" {
 
-    default = "terrraformprojectnewsamir"
+    default = "terrraformprojectnewsamir980348091841904"
   
 }
